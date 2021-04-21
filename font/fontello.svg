@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="feather" unicode="&#xe800;" d="M453 922q188-35 310-182t122-338q0-180-109-322t-281-188l0-64q0-21-16-36t-36-15-37 15-16 36l0 64q-172 46-281 188t-109 322q0 191 123 338t311 182l9 1z m42-921q125 43 204 150t82 240l-163-164q-8-8-19-8-16 0-24 15t5 29l196 196q-11 77-45 142l-113-114q-8-8-19-8-16 0-24 17t5 28l123 123q-97 136-260 170-164-34-260-170l122-123q13-12 5-28t-24-17q-11 0-18 8l-114 114q-34-65-45-142l196-196q13-14 5-29t-24-15q-11 0-18 8l-163 164q4-134 82-240t203-150l0 608q0 22 16 37t37 16 36-16 16-37l0-608z" horiz-adv-x="885" />
+
+<glyph glyph-name="gamepad" unicode="&#xf11b;" d="M464 243v71q0 8-5 13t-13 5h-107v107q0 8-5 13t-13 5h-71q-8 0-13-5t-5-13v-107h-107q-8 0-13-5t-5-13v-71q0-8 5-13t13-5h107v-107q0-8 5-13t13-5h71q8 0 13 5t5 13v107h107q8 0 13 5t5 13z m322-36q0 30-21 51t-51 21-50-21-21-51 21-50 50-21 51 21 21 50z m143 143q0 30-21 51t-51 20-50-20-21-51 21-50 50-21 51 21 21 50z m142-71q0-119-83-202t-202-84q-107 0-189 71h-123q-81-71-188-71-119 0-202 84t-84 202 84 202 202 83h500q118 0 202-83t83-202z" horiz-adv-x="1071.4" />
+</font>
+</defs>
+</svg>
